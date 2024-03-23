@@ -1,2 +1,2 @@
 # linzhu.github.io
-It's for the social data analysis exercise7
+This the readme for the social data analysis exercise7.
