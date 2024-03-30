@@ -5,17 +5,16 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate-v2
 
-<<<<<<< HEAD
 exclude:
   - "/vendor/"
 
 # Site settings
-title: San Francisco Crimes Analysis
+title: Centrarium
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: zhulin252@outlook.com
-name: Lin Zhu
+email: blcentra@gmail.com
+name: Ben Centra
 description: >
-  A blog related with SF Crimes data
+  A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -23,18 +22,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
-=======
-title: San Francisco Crimes Analysis
-email: zhulin252@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/linzhu.github.io/" # the subpath of your site, e.g. /blog
-url: "https://zhumumu0216.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username: ZhuMuMu0216
->>>>>>> 56d1de30a49b2a0a8a9e1453becd1b2f2a8502d2
 
 # Build settings
 markdown: kramdown
@@ -106,7 +93,7 @@ social:
   - name: GitHub
     icon: github
     username: bencentra
-    url: https://zhumumu0216.github.io
+    url: https://github.com/bencentra
     desc: Fork me on GitHub
     share: false
 
